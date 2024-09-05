@@ -12,10 +12,6 @@ import java.io.PrintStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-
-
-
-
 class E30MonthNameIdentifierTester {
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
